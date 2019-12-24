@@ -8,9 +8,11 @@
 5. Đỗ Hồng Phong
 
 ## Demo website:
-[Demo](http://3.1.80.54)
+[Demo](http://bookstime.codes)
 
-[Swagger UI](http://3.1.80.54:5000)
+[Swagger UI](http://bookstime.codes:5000)
+
+[Search Engine - Recommender System](http://bookstime.codes:1910)
 
 ## Github
 
@@ -42,7 +44,7 @@ VueJS + Element UI
 
 ### Database-Schema
 
-![alt db](/db.png)
+![alt db](/version1/db.png)
 
 
 ## Các chức năng chính
