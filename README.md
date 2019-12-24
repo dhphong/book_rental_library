@@ -45,19 +45,33 @@ VueJS + Element UI
 ![alt db](/db.png)
 
 
-## Giao diện website
+## Các chức năng chính
 
 ### Homepage
 ![alt homepage](/version2/Homepage.png)
 
+- Hiển thị thanh tìm kiếm, giao diện trang chủ mang chủ đề về sách.
+- Danh sách sách được gợi ý cho người dùng.
+- Danh sách sách, tác giả, thể loại được ưa chuộng và bán nhiều.
+
 ### Search Page
 ![alt searchpage](/version2/SearchPage.PNG)
+
+- Tìm kiếm sách có tựa đề, tên tác giả và các thông tin khác giống hoặc gần giống từ khóa.
+- Danh sách tìm kiếm được sắp xếp trên mức độ liên quan đến từ khóa.
+- Hệ thống sẽ gợi ý các thể loại liên quan đến từ khóa và số lượng sách.
 
 ### Book Detail
 ![alt bookdetail](/version2/BookDetail.png)
 
+- Hiển thị các thông tin cơ bản của sách và lựa chọn thuê sách.
+- Hệ thống hiển thị các review của sách dựa trên comment chi tiết và hệ thống đánh giá theo sao.
+
 ### User Page
 ![alt bookdetail](/version2/UserPage.png)
+
+- Hiện thị các thông tin cơ bản của ngượi dùng.
+- Danh sách các sách đang mượn, đang cho mượn, đã mượn và các hoạt động gần đây của người 
 
 ### Log In Page
 ![alt bookdetail](/version2/SignIn.png)
