@@ -42,7 +42,7 @@ VueJS + Element UI
 
 ### Database-Schema
 
-![alt db](/db.png)
+![alt db](/version1/db.png)
 
 
 ## Các chức năng chính
