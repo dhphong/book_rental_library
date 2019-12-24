@@ -28,7 +28,7 @@ Phần hướng dẫn cài đặt từng phần sẽ trong readme của Frontend
 
 ### SRS-Document
 
-[Software requirements specification](/SRS_Web.pdf)
+[Software requirements specification](/version2/SRS_Web_v2.pdf)
 
 ### Back-End
 
